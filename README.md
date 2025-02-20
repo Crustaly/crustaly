@@ -1,6 +1,6 @@
 ## Hello World! 🐮
 
-I’m **Crystal Yang**, a **startup founder**, **tech lover**, and soon-to-be **freshman at UPenn M&T** (Wharton + Computer Science). Right now, I’m building **Audemy**, an educational platform for blind students, and diving deep into research on **accessible conversational interfaces** at the **Sketch Recognition Lab (SRL)** at **Texas A&M**.
+I’m **Crystal Yang**, a **startup founder**, **tech lover**, and soon-to-be **freshman at UPenn M&T** (Wharton + Computer Science). 
 
 ---
 
