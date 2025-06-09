@@ -13,7 +13,9 @@ i founded **audemy**, an educational game platform for **blind students** that c
 at **srl** (sketch recognition lab) at **texas a&m**, i research whatever i find interesting and that can help people! most of my work is focused on improving **user experience** for **blind and visually impaired individuals**, especially in the **education space**. 
 
 ---
-
+bio:
+Crystal Yang is an advocate in accessibility and works to decrease the educational resource divide for people with disabilities. She is the founder and CEO of Audemy, an educational platform serving 5,000+ blind students through audio-games. Her organization is supported by 60 volunteers and has raised over $80k in grants from Intel, Hershey's, Google, Taco Bell, and others. Crystal is the winner of the Intel Global AI Festival, and her work has been featured on many national media sources such as Fox, NPR, Intel News, The CW, Yahoo News, and more and recognized by Governor Greg Abbott.
+---
 feel free to check out my work, contribute, or just reach out to chat!
 
 
