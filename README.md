@@ -1,6 +1,6 @@
 ## hello world! 🐮
 
-i’m **crystal yang**, a **startup founder**, **tech lover**, and soon-to-be **freshman at upenn m&t** (wharton + computer science). 
+i'm penn m&t '28 (wharton + computer science). 
 
 ---
 
