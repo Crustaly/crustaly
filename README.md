@@ -1,6 +1,6 @@
 ## hello world! 🐮
 
-i'm penn m&t '28 (wharton + computer science). 
+i'm penn m&t '29 (wharton + computer science). 
 
 ---
 
