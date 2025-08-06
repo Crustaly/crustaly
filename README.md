@@ -7,14 +7,14 @@ i'm penn m&t '29 (wharton + computer science).
 ## **what i’m working on:**
 
 ### **audemy** 
-i founded **audemy**, an educational game platform for **blind students** that creates interactive, audio-based games. right now, i’m focused on improving and scaling the platform, which has already helped over **3,000 users** around the world. i lead a team of **50+ volunteers** and we’ve raised **$100,000 in grants**. we’ve already impacted **1 in 50 blind kids** and are working on expanding even more. 
+i founded **audemy**, an game organization for **blind gamers** revolutionizing the gaming experience for blind gamers. right now, i’m focused on improving and scaling the platform, which has already helped over **200,000 blind users** around the world. 
 
 ### **hci research** 
 at **srl** (sketch recognition lab) at **texas a&m**, i research whatever i find interesting and that can help people! most of my work is focused on improving **user experience** for **blind and visually impaired individuals**, especially in the **education space**. 
 
 ---
 bio:
-Crystal Yang is an advocate in accessibility and works to decrease the educational resource divide for people with disabilities. She is the founder and CEO of Audemy, an educational platform serving 5,000+ blind students through audio-games. Her organization is supported by 60 volunteers and has raised over $80k in grants from Intel, Hershey's, Google, Taco Bell, and others. Crystal is the winner of the Intel Global AI Festival, and her work has been featured on many national media sources such as Fox, NPR, Intel News, The CW, Yahoo News, and more and recognized by Governor Greg Abbott.
+Crystal Yang is an advocate for accessibility in gaming. She is the founder and CEO of Audemy Games, a gaming platform that uses AI-powered audio games + accessible gaming toolkits to reach over 200,000 blind and visually impaired people across 136 countries. She has created 50+ audio games used by 1 in 5 blind students in the U.S., and has created 100 accessibility toolkits to help blind and visually impaired gamers access top titles like Call of Duty, Minecraft, Valorant, Roblox etc. Her organization is backed by $200,000+ in grants from Intel, Google, Hershey’s, The Taco Bell Foundation, etc, and she works with a team of over 60 developers, designers, and volunteers.
 ---
 feel free to check out my work, contribute, or just reach out to chat!
 
