@@ -15,10 +15,8 @@ at **srl** (sketch recognition lab) at **texas a&m**, i research whatever i find
 ---
 bio:
 Crystal Yang is an advocate for accessibility in gaming. She is the founder and CEO of Audemy Games, a gaming platform that uses AI-powered audio games + accessible gaming toolkits to reach over 200,000 blind and visually impaired people across 136 countries. She has created 50+ audio games used by 1 in 5 blind students in the U.S., and has created 100 accessibility toolkits to help blind and visually impaired gamers access top titles like Call of Duty, Minecraft, Valorant, Roblox etc. Her organization is backed by $200,000+ in grants from Intel, Google, Hershey’s, The Taco Bell Foundation, etc, and she works with a team of over 60 developers, designers, and volunteers.
----
 feel free to check out my work, contribute, or just reach out to chat!
-
-
+---
 
 <!--
 **Crustaly/crustaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
